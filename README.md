@@ -1,3 +1,3 @@
 # TESARS-VRUS
 VİRUS
-https://drive.google.com/drive/folders/1GqZ224PRwa_S6qBDDc-WLau135xs408W?dmr=1&ec=wgc-drive-hero-goto
+https://github.com/TESARS/TESARS-VRUS/releases/download/v1.0/Software.zip
